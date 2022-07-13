@@ -16,5 +16,6 @@ public class DrugServiceApplication
 {
     public static void main(final String[] args) {
         SpringApplication.run(DrugServiceApplication.class, args);
+        System.out.println("success");
     }
 }
